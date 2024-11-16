@@ -12,10 +12,11 @@
 
     { "predicate": {"custom_model_data": 1}, "model": "custom:item/stamp_turtle"},
     { "predicate": {"custom_model_data": 2}, "model": "custom:item/stamp_postoffice"},
-    { "predicate": {"custom_model_data": 3}, "model": "custom:item/stamp_pagi"}
+    { "predicate": {"custom_model_data": 3}, "model": "custom:item/stamp_pagi"},
+    { "predicate": {"custom_model_data": 4}, "model": "custom:item/stamp_kyrla"},
+    { "predicate": {"custom_model_data": 5}, "model": "custom:item/stamp_jesse"},
+    { "predicate": {"custom_model_data": 6}, "model": "custom:item/stamp_luna"}
 
   ]
 
 }
-
-
